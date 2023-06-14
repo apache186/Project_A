@@ -1,0 +1,24 @@
+= Welcome to the Starting Page for Project A
+:src_path: code/src/Main.java
+
+An introduction to http://antora.org[Antora].
+
+
+
+== First Section: Code
+*Happy* to be _here_. We're going to show some `code`.
+
+[source, java]
+----
+include::{src_path}[tags=my_method, indent=0]
+----
+<1> Here is some random code!
+
+=== Second Section: Table
+
+|===
+| Column 1 | Column 2 | Column 3
+| cell 1.1 | cell 2.1 | cell 3.1
+| cell 1.2 | cell 2.2 | cell 3.2
+| cell 1.3 | cell 2.3 | cell 3.3
+|===
