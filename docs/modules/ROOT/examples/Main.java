@@ -8,7 +8,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         // Press Umschalt+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {                     //<1>
+        for (int i = 1; i <= 5; i++) {                        //<1>
 
             // Press Umschalt+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Strg+F8.

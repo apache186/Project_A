@@ -1,5 +1,4 @@
 = Welcome to the Starting Page for Project A
-:src_path: antora-demo/antora-test-2/Project_A/code/src
 
 An introduction to http://antora.org[Antora].
 
@@ -10,7 +9,7 @@ An introduction to http://antora.org[Antora].
 
 [source,java]
 ----
-include::C:/Users/brisal/source/repos/edu/{src_path}/Main.java[tags=my_method,indent=0]
+include::example$Main.java[tags=my_method,indent=0]
 ----
 <1> Here is some random code!
 
