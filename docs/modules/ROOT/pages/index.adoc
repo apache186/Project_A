@@ -1,5 +1,5 @@
 = Welcome to the Starting Page for Project A
-:src_path: code/src/Main.java
+:src_path: C:\Users\brisal\source\repos\edu\antora-demo\antora-test-2\Project_A\code\src\Main.java
 
 An introduction to http://antora.org[Antora].
 
