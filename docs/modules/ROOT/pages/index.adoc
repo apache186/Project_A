@@ -9,7 +9,7 @@ An introduction to http://antora.org[Antora].
 
 [source,java]
 ----
-include::example$Main.java[tags=my_method,indent=0]
+include::example$src/Main.java[tags=my_method,indent=0]
 ----
 <1> Here is some random code!
 
